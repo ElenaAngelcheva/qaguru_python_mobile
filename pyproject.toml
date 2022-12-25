@@ -5,7 +5,7 @@ description = ""
 authors = ["Julia Ivanova <murova47@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.10"
 pytest = "^7.1.3"
 Appium-Python-Client = "^2.6.1"
 selene = {version = "^2.0.0-beta.10", allow-prereleases = true}
